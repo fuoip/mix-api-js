@@ -1,0 +1,19 @@
+{
+  "name": "mix-api",
+  "version": "1.0.1",
+  "description": "API клиент для MIX платформы",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mix", "api", "client"],
+  "author": "fuoip <magicwheelx@email.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuoip/mix-api-js.git"
+  }
+}
